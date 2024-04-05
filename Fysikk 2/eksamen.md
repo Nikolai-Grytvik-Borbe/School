@@ -10,3 +10,5 @@ Forbedringer:
 2. Forklar formlene
 3. Hold det kort og effektivt
 4. Tegn kreftene riktig (f.eks. gravitasjon og elektrisk kraft påvirker fra tyngdepunktet)
+5. Hold motet oppe
+6. :)
