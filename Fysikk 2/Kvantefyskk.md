@@ -6,3 +6,7 @@
 Dette får det til å virke som at det at vi gjør målinger påvirker mønsteret vi ser, dette er ikke mulig så hva kan andre forklaringer hvær?
 
 Om det er mulig: Gjelder dette alle type målinger? Hva er en måling? Har presisjonen til målingene noe å si? Gjelder dette bare standarpartiker, eller kan man f.eks. få samme resultat med protoner (eller større)? Gjelder dette alle standarpartikler?
+
+Som tid er relativt, kanskje virkeligheten også er relativt?
+
+Ifm. Schrodinger katt, kanskje for katten er virkeligheten at den lever, men for oss utenfor er virkeligheten (og med det mener jeg ikke den opplevde virkeligheten, men den fysiske virkeligheten) at katten er i en superposisjon. 
