@@ -7,6 +7,10 @@ Dette får det til å virke som at det at vi gjør målinger påvirker mønstere
 
 Om det er mulig: Gjelder dette alle type målinger? Hva er en måling? Har presisjonen til målingene noe å si? Gjelder dette bare standarpartiker, eller kan man f.eks. få samme resultat med protoner (eller større)? Gjelder dette alle standarpartikler?
 
+### Forvirring 1.
 Som tid er relativt, kanskje virkeligheten også er relativt?
 
-Ifm. Schrodinger katt, kanskje for katten er virkeligheten at den lever, men for oss utenfor er virkeligheten (og med det mener jeg ikke den opplevde virkeligheten, men den fysiske virkeligheten) at katten er i en superposisjon. 
+Ifm. Schrodinger katt, kanskje for katten er virkeligheten at den lever, men for oss utenfor er virkeligheten (og med det mener jeg ikke den opplevde virkeligheten, men den fysiske virkeligheten) at katten er i en superposisjon.
+
+### Forvirring 2.
+Om du har 2 fotoner med samme opphav, og du observerer at det ene fotonet blir påvirket av et elektrisk felt, så vil det andre fotonet ikke bli påvirket av et elektrisk felt for seg?
