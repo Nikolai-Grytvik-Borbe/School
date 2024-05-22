@@ -1,4 +1,4 @@
-TODO:
+TODO: a small change
 1. Lag "eksempelsvar" for hvert kappittel
     a. Eksempelsvar skal inneholde
         i. Formler, konstanter og navn på disse
