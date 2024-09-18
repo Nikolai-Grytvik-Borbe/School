@@ -1,2 +1,0 @@
-# Eksamen
-Forbredelser til eksamener
